@@ -24,11 +24,6 @@ ChargeUp-Station/
 ├── config/
 │   └── database.js
 │
-├── controllers/
-│
-├── database/
-│   └── chargeup.db
-│
 ├── routes/
 │   ├── commuterRoutes.js
 │   ├── chargerRoutes.js
@@ -47,7 +42,7 @@ ChargeUp-Station/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/karthiksiva24nov7-beep/ChargeUp-Station.git
 ```
 
 ### 2. Navigate to the Project Folder
